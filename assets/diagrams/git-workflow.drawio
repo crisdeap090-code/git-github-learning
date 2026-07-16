@@ -1,0 +1,15 @@
+               GitHub Repository
+                      │
+        push          │        pull
+                      │
+        ┌─────────────┴─────────────┐
+        │                           │
+    Local Repository (Commit History)
+               ▲
+          git commit
+               │
+        Staging Area
+               ▲
+           git add
+               │
+      Working Directory

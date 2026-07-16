@@ -1,0 +1,20 @@
+main
+ │
+ │
+ ├──────────────┐
+ │              │
+ │      feature/login
+ │              │
+ │      commit
+ │              │
+ │      commit
+ │              │
+ │      push
+ │              │
+ │      Pull Request
+ │              │
+ └──────────────┘
+        │
+      Merge
+        │
+      main
